@@ -2,12 +2,10 @@ import React from 'react';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
-import ListSubheader from '@material-ui/core/ListSubheader';
 import DashboardIcon from '@material-ui/icons/Dashboard';
 import ZoomInOutlined from '@material-ui/icons/ZoomInOutlined';
 import LogoutIcon from '@material-ui/icons/PowerSettingsNew';
 import BarChartIcon from '@material-ui/icons/BarChart';
-import AssignmentIcon from '@material-ui/icons/Assignment';
 
 export const mainListItems = (
   <div>
